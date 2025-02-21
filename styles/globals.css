@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  @apply h-full bg-black
+  @apply h-full bg-customGreen
 }
 
 body {
